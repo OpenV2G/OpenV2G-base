@@ -1,0 +1,7 @@
+"Shortname","Name","Issuer","Signee","Key Location","CNAME"
+"OEM-P.Cert","OEM Provisioning Certificate","OEM","OEM Sub-CA 2","EVSE",
+"Cont.Cert","Contract Certificate","MO","MO Sub-CA 2","Contract Data Package",
+"V2G-R.Cert","V2G Root Certificate","Root","V2G Root CA","V2G Root CA",
+"MO-R.Cert","MO Root Certificate","MO","MO Root CA","MO Root CA",
+"EVSE.Cert","EVSE Leaf Certificate","CPO","CPO Sub-CA 2",,
+"Prov.Cert","Leaf Provisioning Certificate","CPS","Prov Sub-CA 2",,
