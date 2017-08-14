@@ -29,6 +29,10 @@ will be implemented as mockup services to simulate these hardware
 components. The focus lies on the PKIs rather than on the
 _ISO/IEC 15118_ interface between car and infrastructure.
 
+For the project scopes on the individual roles see
+[/doc/roles-and-systems-list.csv](doc/roles-and-systems-list.csv).
+
+
 
 # Links
 

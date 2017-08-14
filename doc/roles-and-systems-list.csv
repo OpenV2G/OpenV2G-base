@@ -1,0 +1,11 @@
+"System Shortname","System Name","Description","Role/Owner","Project Scope"
+"V2G Root CA","Root Certificate Authority","Highest trust instance","V2G Root","Mock implementation for testing"
+"RCP","Root Certificate Pool","Stores and distributes the root certificates.","V2G Root",
+"CPO BE","Charge Point Operator","Controls public charging infrastructure","CPO",
+"EVSE","Charge Point",,"CPO",
+"CPS","Certificate Provisioning Service","Receives the contract cert from the MO and signs it for the other roles.","Common",
+"CCP","Contract Certificate Pool","Stores and distributes contract certificates.","Common",
+"PCP","Provisioning Certificate Pool","Stores and distributes provisioning certificates.","Common",
+"MO BE","Mobility Operator Backend System",,"MO",
+"OEM BE","Car OEM Backend System",,"OEM",
+"EV","Electric Vehicle",,"OEM",
